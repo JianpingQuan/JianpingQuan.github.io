@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tage/index.html</loc>
-    
-    <lastmod>2020-10-09</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/10/08/hello-world/</loc>
     
     <lastmod>2020-10-08</lastmod>
