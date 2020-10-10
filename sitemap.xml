@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jianpingquan.github.io/tags/index.html</loc>
+    <loc>https://jianpingquan.github.io/tags/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jianpingquan.github.io/categories/index.html</loc>
+    <loc>https://jianpingquan.github.io/categories/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jianpingquan.github.io/about/index.html</loc>
+    <loc>https://jianpingquan.github.io/about/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jianpingquan.github.io/2020/10/09/%E5%9F%BA%E4%BA%8Ehexo%E4%B8%8Egithub%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://jianpingquan.github.io/2020/10/09/%E5%9F%BA%E4%BA%8Ehexo%E4%B8%8Egithub%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jianpingquan.github.io/2020/10/08/hello-world/</loc>
+    <loc>https://jianpingquan.github.io/2020/10/08/hello-world/</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>http://jianpingquan.github.io/</loc>
+    <loc>https://jianpingquan.github.io/</loc>
     <lastmod>2020-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,14 +46,14 @@
 
   
   <url>
-    <loc>http://jianpingquan.github.io/tags/hexo/</loc>
+    <loc>https://jianpingquan.github.io/tags/hexo/</loc>
     <lastmod>2020-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://jianpingquan.github.io/tags/markdown/</loc>
+    <loc>https://jianpingquan.github.io/tags/markdown/</loc>
     <lastmod>2020-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,7 +62,7 @@
 
   
   <url>
-    <loc>http://jianpingquan.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://jianpingquan.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2020-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
