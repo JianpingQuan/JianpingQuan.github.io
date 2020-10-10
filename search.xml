@@ -26,6 +26,9 @@
 
 <p>以下是正文内容：</p>
 ]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>markdown</tag>
